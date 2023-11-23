@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "chrono": "c",
+        "limits": "c",
+        "random": "c",
+        "ratio": "c",
+        "semaphore": "c",
+        "algorithm": "c"
+    }
+}
